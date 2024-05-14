@@ -1,0 +1,15 @@
+{
+  "name": "mencubatest",
+  "version": "1.0.0",
+  "description": "mencuba upload text ke database",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "author": "aminuddin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
